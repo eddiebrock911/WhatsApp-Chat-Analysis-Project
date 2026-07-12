@@ -11,3 +11,4 @@ scipy==1.17.1
 seaborn==0.13.2
 streamlit==1.57.0
 plotly==6.7.0
+urlextract==1.9.0
